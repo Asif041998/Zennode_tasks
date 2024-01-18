@@ -1,0 +1,34 @@
+* Why do you like to join as a Software developer?
+- I am passionate about solving problems through coding and creating innovative solutions. Joining as a software developer at 
+your company excites me because it aligns with my passion, and I believe it's a great opportunity to contribute my skills, 
+learn, and be part of a dynamic team.
+
+* List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+- Visual Studio Code: Because it is a versatile and powerful code editor that greatly enhances the development experience for backend developers. Its features, extensions, and integrated debugging capabilities make it an indispensable tool for writing and managing code efficiently.
+- Postman: Because it is a collaborative API development tool that simplifies the process of testing, documenting, and sharing APIs. For Backend developers working on backend services, Postman provides a user-friendly interface for testing API endpoints, making it an essential tool for ensuring the reliability and functionality of APIs.
+- Git: Because Git is a distributed version control system that plays a crucial role in collaborative software development. As a Backend developer, using Git for version control allows you to track changes, collaborate with team members, and manage code repositories effectively. It ensures a systematic approach to development, making it an essential tool in the software development lifecycle.
+
+* List top 3 organisations you like to join in your career & why you like these organisations.
+
+- Netflix: Netflix is known for its cutting-edge technology stack, and they heavily rely on Node.js for backend development. Joining Netflix would provide an opportunity to work on large-scale, innovative projects, contributing to the streaming platform's success. The company's commitment to pushing technological boundaries can be appealing for a Node.js developer seeking challenging and impactful work.
+- Google: Google is a tech giant with a diverse range of projects and a strong emphasis on open-source technologies. Given that Node.js aligns well with Google's focus on JavaScript and server-side development, joining Google could offer opportunities to work on influential projects, collaborate with top-notch developers, and contribute to the advancement of web technologies.
+- Uber: Uber, a company heavily reliant on robust backend systems, often utilizes Node.js for its backend services. Joining Uber could provide exposure to handling large-scale systems, optimizing performance, and contributing to the evolution of the transportation technology landscape. The fast-paced and dynamic environment at Uber might be enticing for a Node.js developer seeking challenges and constant learning.
+
+* How you position yourself in this industry after 2 years.
+
+- My aim is to position myself as a seasoned professional with a deep understanding of scalable and efficient backend architectures. Over the next two years, I envision expanding my skill set by staying current with emerging Node.js trends, adopting best practices, and contributing to open-source projects.
+
+I plan to leverage my experience in developing robust APIs and server-side applications to take on more complex and impactful projects. By actively participating in the developer community, attending relevant conferences, and fostering continuous learning, I aim to become a go-to resource for innovative and effective backend solutions.
+
+Building on my proficiency in technologies such as Express.js and integrating with databases like MongoDB or SQL, I aspire to lead and collaborate on projects that emphasize performance, security, and maintainability. Additionally, I plan to explore and implement DevOps practices to enhance the deployment and scalability of applications.
+
+Ultimately, my goal is to be recognized not only for my technical expertise but also for my ability to contribute positively to collaborative teams, mentor junior developers, and play a key role in shaping the success of the projects I am involved in.
+
+* List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+
+- Serverless Function for Data Processing (Planned): Planning to build a serverless function using Node.js on AWS Lambda for data processing. The goal is to optimize data handling and analysis by leveraging serverless architecture. This project involves integrating with other AWS services such as S3 and DynamoDB for efficient data storage and retrieval.
+
+- API Gateway for IoT Devices (Planned): Planning to build an API gateway using Node.js to manage and secure communication between IoT devices and the backend infrastructure. This involves designing RESTful APIs, implementing authentication mechanisms, and ensuring data integrity for the IoT data flowing into the system.
+
+- Integration with Third-party Payment Gateway (Planned): Planning to integrate a third-party payment gateway into an existing application. This involves working on backend endpoints to handle payment requests, ensuring secure data transmission, and implementing webhook handling for real-time payment status updates.
